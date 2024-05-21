@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "nombre": "Stormtrooper",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product1.jpeg",
+      "id": "1"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product2.png",
+      "id": "2"
+    },
+    {
+      "nombre": "Stormtrooper",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product1.jpeg",
+      "id": "3"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product2.png",
+      "id": "4"
+    },
+    {
+      "nombre": "Stormtrooper",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product1.jpeg",
+      "id": "5"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product2.png",
+      "id": "6"
+    },
+    {
+      "nombre": "Stormtrooper",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product1.jpeg",
+      "id": "7"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product2.png",
+      "id": "8"
+    },
+    {
+      "nombre": "Stormtrooper",
+      "precio": "60,00",
+      "imgSrc": "https://raw.githubusercontent.com/danife001/images/main/product1.jpeg",
+      "id": "9"
+    }
+  ]
+}
